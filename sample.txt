@@ -2,4 +2,8 @@ Welcometo  hyderabad
 welcome to Gachibowli location
 welcome to ltimindtree
 Welcome to Vigneswara pg
+<<<<<<< HEAD
 Welcome to 3rd floor 
+=======
+welcome to 2nd floor
+>>>>>>> 409370256c98b5b65655adbb79f8a5aac96349ff
